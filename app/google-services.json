@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620009460776",
+    "firebase_url": "https://projeto-android-kotlin.firebaseio.com",
+    "project_id": "projeto-android-kotlin",
+    "storage_bucket": "projeto-android-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620009460776:android:6e1fc2f5f9cf1d28a4111d",
+        "android_client_info": {
+          "package_name": "com.lucasmontano.fearsetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620009460776-aqfj2fppn65fm92d35ddt4mkjhgguecd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucasmontano.fearsetting",
+            "certificate_hash": "a48c13f3d9d3e0c8dc682ceeae160e1a3b104ad3"
+          }
+        },
+        {
+          "client_id": "620009460776-8bpupoecqp6evk3qqa89c5tdju334l78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEokSoKXpa7HCx-4TdX9kBT0PtDYbjk-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620009460776-8bpupoecqp6evk3qqa89c5tdju334l78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

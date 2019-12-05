@@ -21,8 +21,7 @@ class OnboardingFragment : Fragment() {
     onboardViewModel = ViewModelProviders.of(this).get(OnboardViewModel::class.java)
 
     lifecycle.addObserver(onboardViewModel)
-
-    observeOnboardContent()
+     observeOnboardContent()
   }
 
   override fun onDestroyView() {
